@@ -1,6 +1,6 @@
 # Sujet de la SAE
 
-## objectifs
+## Objectifs
 L'objectif est de produire une analyse **en temps réel** de l'état de la menace internet et de s'en servir afin de renforcer la sécurité globale de vos serveurs et de vos postes clients et de l'application temps réel.
 L'ensemble devra être opérationnel sur une période d'une semaine.
 
@@ -27,7 +27,7 @@ Les résultats temps réel seront aussi utilisés afin de protéger l'applicatio
 
 la gestion du code suivra les bonnes pratiques (branche , tests, commit et merge réguliers...)
 
-### Organisation de la SAE
+## Organisation de la SAE
 
 - Vous travaillerez en équipe de 6 personnes au minimum et de 7 personnes au maximum.   
 - Vous travaillerez en mode agile (backlog, user story, sprint) et vous utiliserez un outil de gestion de projet pour gérer votre projet.
@@ -40,7 +40,7 @@ Un coéquipier co-validera les MR/PR et les "mergera" avec la branche main.
 
 
 
-### Etapes de la SAE et livrables
+## Etapes de la SAE et livrables
 
 - Vous écrirez un cahier des charges de l'application qui sera validé par le donneur d'ordre et rendu avant la phase de développement. Une maquette qui pourra être réalisée par IA est demandée.
 - Vous écrirez un Cahier des charges Techniques des choix architecturaux qui devra être validé aussi. 
