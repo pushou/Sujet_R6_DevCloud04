@@ -11,10 +11,16 @@ L'honeypot devra être durci afin d'en limiter les accès :
 - Séparation des sondes de l'exploitation des données
 - Authentification SSO
 - Enregistrement des sessions de connexions, Bastion SSH
-- Audit 
+- Audit (kunai ...)
+- agent Siem 
 - Sauvegarde ...
 - Supervision
 - Rapports de sécurité à la demande et quotidien de votre infra.
+
+L'application produite sera:  
+- proteger par le WAF open source de bunker IT
+- La mise en place de télémétrie et d'analyse via par exemple open telemetry et elastic est demandé 
+- elle sera containairisé de préférence sous K8S.
 
 Vous mettrez aussi en place une architecture virtualisée et containérisée en haute disponibilité avec de l'infra as code dont la sécurité sera amélioré par les résultats issus de vos honeypots.
 
